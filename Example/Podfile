@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'HXYCategoryKit_Example' do
+  pod 'HXYCategoryKit', :path => '../'
+
+  target 'HXYCategoryKit_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
