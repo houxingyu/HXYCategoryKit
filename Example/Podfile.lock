@@ -1,0 +1,16 @@
+PODS:
+  - HXYCategoryKit (0.1.0)
+
+DEPENDENCIES:
+  - HXYCategoryKit (from `../`)
+
+EXTERNAL SOURCES:
+  HXYCategoryKit:
+    :path: ../
+
+SPEC CHECKSUMS:
+  HXYCategoryKit: 772b4956e884af4fa9925e2e9d91950534056bb8
+
+PODFILE CHECKSUM: 9a883a90461919e24f35910b8f44bf243631e616
+
+COCOAPODS: 1.3.1
